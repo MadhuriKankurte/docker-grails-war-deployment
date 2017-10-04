@@ -1,5 +1,5 @@
 # docker-grails-war-deployment
-In this repo we shall have steps to deploy grails and groovy application war.
+In this repo we shall have steps to deploy grails and groovy application war through Docker image.
 
 ## Set-up environment
 - `Java 7`
