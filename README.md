@@ -29,7 +29,7 @@ In this repo we shall have steps to deploy grails and groovy application war.
 
     Traverse to the folder containing dockerfile( if necessary according to the path for .war, this folder can containe .war to be deployed)
   
-    ` docker build -t name-of-image .`
+    `docker build -t name-of-image .`
     
      - Eg : docker build -t grails-application-tomcat-im
      
