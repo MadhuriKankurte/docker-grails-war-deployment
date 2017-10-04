@@ -1,0 +1,6 @@
+-- Copy/Save/zip docker image to ship it to other machines.
+
+docker image save ftp-grails-tomcat > ftp-grails-tomcat.tar
+
+-- Load or import image to other machines
+docker image load -i ftp-grails-tomcat.tar
